@@ -1,12 +1,12 @@
-### Augmented-Random-Search-ARS-Intuition by https://www.superdatascience.com/
+## Augmented-Random-Search-ARS-Intuition by https://www.superdatascience.com/
 * https://www.udemy.com/artificial-intelligence-ars/learn/v4/content
 * https://www.superdatascience.com/ars/
 
 
-### Code with comment in the code section: ars.py @copyright Hadelin de Ponteves and Alexis Jacq 
+## Code with comment in the code section: ars.py @copyright Hadelin de Ponteves and Alexis Jacq 
 
 
-### To read and watch 
+## To read and watch about ARS  
 #### ARS Paper on arxiv 
 * https://arxiv.org/pdf/1803.07055.pdf
 * https://twitter.com/beenwrekt?lang=fr
