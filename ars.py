@@ -1,6 +1,6 @@
 # AI 2018 
-# @copyrightHadelin de Pontaves & Alexis Jacq 
-# watch the tutorial at https://www.superdatascience.com/
+# @copyright Hadelin de Pontaves & Alexis Jacq 
+# find the tutorial on https://www.superdatascience.com/
 
 # Importing libraries 
 import os 
