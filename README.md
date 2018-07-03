@@ -1,3 +1,6 @@
+## What is Augmented-Random-Search-ARS-Intuition? 
+* Augmented-Random-Search-ARS-Intuition with full code : https://youtu.be/YC-Ll76BpM8
+
 ## Augmented-Random-Search-ARS-Intuition by https://www.superdatascience.com/
 * https://www.udemy.com/artificial-intelligence-ars/learn/v4/content
 * https://www.superdatascience.com/ars/
