@@ -10,13 +10,13 @@
 * https://arxiv.org/pdf/1803.07055.pdf
 * https://twitter.com/beenwrekt?lang=fr
 
-#### Mujoco environment 
+#### Mujoco 
 * http://www.mujoco.org
 
-#### Pybullet  AI environment as Mujoco but opensource
+#### Pybullet as Mujoco but opensource
 * https://pypi.org/project/pybullet/
 
-#### AI Facebook 
+#### AI Facebook Portal 
 * https://facebook.ai/developers/tools#reasoning
 
 #### Alexis Jacq on Github and tutorial 
